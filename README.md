@@ -2,10 +2,11 @@
 
 Clone
 ### `git clone https://github.com/AhmedELGAMMUDI/Introvert-Extrovert_Teamway.git`
+### `cd Introvert-Extrovert_Teamway`
 
 # For the frontend Side
 
-### `cd Introvert-Extrovert_Teamway`
+### `cd Introvert-Extrovert-main`
 ### `npm install`
 ### `npm start`
 
