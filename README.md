@@ -1,5 +1,8 @@
 # Introvert-Extrovert_Teamway
 
+Clone
+### `git clone https://github.com/AhmedELGAMMUDI/Introvert-Extrovert_Teamway.git`
+
 # For the frontend Side
 
 ### `cd Introvert-Extrovert_Teamway`
