@@ -1,7 +1,6 @@
 from django.shortcuts import render
 
 
-# viewsets class provides the implementation for CRUD operations by default, what we had to do was specify the serializer class and the query set.
 
 from rest_framework import viewsets          # add this
 from .serializers import QuestionAnswerSerializer,AnswerSerializer  # add this
